@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rf ~/.mozilla
+cp -r .mozilla ~/.mozilla
